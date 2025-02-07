@@ -18,6 +18,7 @@ body {
   border: solid 0.1em black;
   border-collapse: collapse;
   width: 100%;
+  heigth: 10vh;
 }
 
 #dias {
